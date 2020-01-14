@@ -7,3 +7,5 @@ and fourth line is here
 new line for new branch
 
 one more line master
+
+one more line feature
