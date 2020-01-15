@@ -1,11 +1,1 @@
-some text
-second line of some text
-
-third line of text
-and fourth line is here
-
-new line for new branch
-
-one more line master
-
-one more line feature
+new text lines for feature branch
