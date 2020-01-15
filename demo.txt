@@ -1,1 +1,2 @@
 new text lines for feature branch
+some new lines for future rebase
